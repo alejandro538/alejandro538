@@ -1,4 +1,5 @@
 <!--
-FULL_NAME:Alejandro_Ortiz_Vargas
+CONFIG
+FULL_NAME:Alejandro Ortiz Vargas
 GITHUB_USER: alejandro538
 -->
